@@ -1,0 +1,12 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &_title {
+        margin-left: 15px;
+        color: #FFFFFF;
+        font-size: 18.67px;
+        font-weight: 700;
+    }
+}

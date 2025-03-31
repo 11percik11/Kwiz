@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "question": "Какая сторона света находится здесь?",
+      "img": "/Frame1.png",
+      "answers": [
+        { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+        { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": false },
+        { "id": "3", "text": "NORTH (СЕВЕР)", "correct": true },
+        { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+        { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+        { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+        { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+        { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+      ]
+    },
+    {
+        "id": "2",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame2.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": true },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": true },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+        ]
+      },
+      {
+        "id": "3",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame3.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": true },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+        ]
+      },
+      {
+        "id": "4",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame4.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": false },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": true }
+        ]
+      },
+      {
+        "id": "5",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame5.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": false },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": true },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+        ]
+      },
+      {
+        "id": "6",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame6.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": false },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": true },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+        ]
+      },
+      {
+        "id": "7",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame7.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": false },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": false },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": true },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+        ]
+      },
+      {
+        "id": "8",
+        "question": "Какая сторона света находится здесь?",
+        "img": "/Frame8.png",
+        "answers": [
+          { "id": "1", "text": "SOUTH-WEST (ЮГО-ЗАПАД)", "correct": true },
+          { "id": "2", "text": "SOUTH-EAST (ЮГО-ВОСТОК)", "correct": false },
+          { "id": "3", "text": "NORTH (СЕВЕР)", "correct": false },
+          { "id": "4", "text": "SOUTH (ЮГ)", "correct": false },
+          { "id": "5", "text": "WEST (ЗАПАД)", "correct": false },
+          { "id": "6", "text": "EAST (ВОСТОК)", "correct": false },
+          { "id": "7", "text": "NORTH-WEST (СЕВЕРО-ЗАПАД) ", "correct": false },
+          { "id": "8", "text": "NORTH-EAST (СЕВЕРО-ВОСТОК)", "correct": false }
+        ]
+      }
+]

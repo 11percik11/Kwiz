@@ -1,0 +1,28 @@
+.answerDescription {
+    width: 818px;
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+
+    &__title {
+        color: #0D003B;
+        font-size: 40px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    &__textDescription {
+        color: #0D003B;
+        font-weight: 400;
+        font-size: 24px;
+        margin-bottom: 50px;
+    }
+
+    &__button {
+        max-width: 758px;
+        width: 100%;
+        height: 80px;
+    }
+}

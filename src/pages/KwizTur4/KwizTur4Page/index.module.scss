@@ -1,0 +1,10 @@
+.quiz {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  
+    &__createquestion {
+      flex-grow: 1;
+    }
+  }
+  

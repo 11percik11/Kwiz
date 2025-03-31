@@ -1,0 +1,66 @@
+.keyboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    padding: 27px 0;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    max-width: 1014px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    width: 100%;;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .key {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    min-width: 60px;
+    padding: 0 10px;
+    color: #373737;
+    background-color: #F1F3F3;
+    border-radius: 17px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s;
+    user-select: none;
+  
+    &:hover {
+      background-color: #e0e0e0;
+    }
+  
+    &:active {
+      background-color: #d0d0d0;
+    }
+  }
+  
+  .backspace {
+    min-width: 110px;
+  }
+  
+  .enter {
+    min-width: 143px;
+  }
+
+  .space {
+    max-width: 552px;
+    width: 100%;
+    height: 55px;
+  }
+  
+  .language {
+    min-width: 70px;
+    background-color: #9999cc;
+  }
+  
+  .number {
+    min-width: 70px;
+    background-color: #cccc99;
+  }

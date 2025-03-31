@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "question": "Выберите атрибуты костюма морского офицера первой половины 18 века для капитана Чирикова",
+    "img": "/FrameFF3.png",
+    "answers": [
+      { "id": "1", "text": "Парик", "correct": true },
+      { "id": "2", "text": "Штаны", "correct": true },
+      { "id": "3", "text": "Панталоны", "correct": false },
+      { "id": "4", "text": "Шляпа", "correct": true },
+      { "id": "5", "text": "Ботфорты", "correct": false },
+      { "id": "6", "text": "Кафтан", "correct": true },
+      { "id": "7", "text": "Сюртук", "correct": false },
+      { "id": "8", "text": "Шаровары", "correct": false },
+      { "id": "9", "text": "Жабо", "correct": false },
+      { "id": "10", "text": "Зонтик", "correct": false },
+      { "id": "11", "text": "Шпага", "correct": true },
+      { "id": "12", "text": "Поясная портупея", "correct": true },
+      { "id": "13", "text": "Шейный платок", "correct": true },
+      { "id": "14", "text": "Камзол", "correct": true },
+      { "id": "15", "text": "Штиблеты", "correct": true },
+      { "id": "16", "text": "Колготы", "correct": false },
+      { "id": "17", "text": "Блузка", "correct": false },
+      { "id": "18", "text": "Брюки", "correct": false },
+      { "id": "19", "text": "Портянки", "correct": false },
+      { "id": "20", "text": "Бутсы", "correct": false }
+    ]
+  }
+]

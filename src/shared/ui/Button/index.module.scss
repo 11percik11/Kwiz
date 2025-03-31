@@ -1,0 +1,29 @@
+.button {
+    border-radius: 9px;
+    font-size: 20px;
+    font-weight: 600;
+    min-height: 60px;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+
+    &__default {
+        white-space: nowrap;
+        color: #0D003B;
+        background-color: #5C59FD;
+        color: #FFFFFF;
+    }
+
+    &__navigation {
+        border-radius: 20px;
+        height: 120px;
+        width: 50%;
+        white-space: nowrap;
+        color: #FFFFFF;
+        background-color: #5C59FD;
+    }
+
+    &__nonavigation {
+        background-color: #37246d;
+        color: #bcbcbc;
+    }
+}

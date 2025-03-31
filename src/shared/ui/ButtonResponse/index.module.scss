@@ -1,0 +1,43 @@
+.button {
+    position: relative;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    min-height: 120px;
+    width: 24.8%;
+    cursor: pointer;
+
+    &--default {
+        white-space: normal;
+        color: #0D003B;
+        background-color: #FFFFFF;
+    }
+
+    &--valueTrue {
+        white-space: normal;
+        color: #FFFFFF;
+        background-color: #44BE72;
+    }
+
+    &--valueFalse {
+        white-space: normal;
+        color: #FFFFFF;
+        background-color: #E3605F;
+    }
+
+    &--unavailable {
+        white-space: normal;
+        color: #98A2B3;
+        background-color: #F0F2F5;
+    }
+
+
+    &__div {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 14px;
+        font-weight: 600;
+        color: #cdcdcdad;
+    }
+}

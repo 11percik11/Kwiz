@@ -1,0 +1,22 @@
+[
+    {
+      "id": "1",
+      "question": "Как называется флаг флота России?",
+      "answers": [
+        { "id": "1", "text": "ОБЛАКО", "correct": false },
+        { "id": "2", "text": "ПАРУС", "correct": true },
+        { "id": "3", "text": "ДЫМ ПАРОХОДА", "correct": false },
+        { "id": "4", "text": "ЛЬДИНА", "correct": false }
+      ]
+    },
+    {
+        "id": "2",
+        "question": "Найдите Андреевский флаг и выделите его",
+        "answers": [
+          { "id": "1", "userLink": "/button222a4f.png", "correct": true },
+          { "id": "2", "userLink": "/button333.png", "correct": false },
+          { "id": "3", "userLink": "/button444.png", "correct": false },
+          { "id": "4", "userLink": "/button555.png", "correct": false }
+        ]
+      }
+]

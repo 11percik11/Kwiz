@@ -1,0 +1,40 @@
+.buttoninput {
+  position: relative;
+  border-radius: 20px;
+  width: 25%;
+  height: 307px;
+  background-size: 100% 100%;
+  background-position: center;
+  cursor: pointer;
+
+  &__disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  &--valueTrue {
+    border: 2px solid #44be72;
+  }
+
+  &--valueFalse {
+    border: 2px solid #e3605f;
+  }
+
+  &__input {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+  }
+
+  &__div {
+    position: absolute;
+    top: 17px;
+    left: 17px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #545454ad;
+  }
+}

@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "question": "Как называется трехмачтовый боевой корабль, у которого много пушек?",
+      "answers": [
+        { "id": "1", "text": "ФРЕГАТ", "correct": true },
+        { "id": "2", "text": "ЛИНКОР", "correct": false },
+        { "id": "3", "text": "БОТ", "correct": false },
+        { "id": "4", "text": "КОРВЕТ", "correct": false }
+      ]
+    },
+    {
+      "id": "2",
+      "question": "Как называется парусное судно с двумя и более мачтами и косыми парусами?",
+      "answers": [
+        { "id": "1", "text": "БРИГ", "correct": false },
+        { "id": "2", "text": "БАРК", "correct": true },
+        { "id": "3", "text": "ШХУНА", "correct": false },
+        { "id": "4", "text": "БРИГАНТИНА", "correct": false }
+      ]
+    },
+    {
+        "id": "3",
+        "question": "Как называется помещение для приготовления пищи на морском судне?",
+        "answers": [
+          { "id": "1", "text": "РУБКА", "correct": false },
+          { "id": "2", "text": "КАМБУЗ", "correct": true },
+          { "id": "3", "text": "ГАЛЬЮН", "correct": false },
+          { "id": "4", "text": "КАЮТА", "correct": false }
+        ]
+      },
+      {
+        "id": "4",
+        "question": "Как называется помещение для размещения экипажа?",
+        "answers": [
+          { "id": "1", "text": "ТВИНДЕК", "correct": false },
+          { "id": "2", "text": "КАМБУЗ", "correct": false },
+          { "id": "3", "text": "КАЮТ-КОМПАНИЯ", "correct": false },
+          { "id": "4", "text": "КУБРИК", "correct": true }
+        ]
+      },
+      {
+        "id": "5",
+        "question": "Как называется жилое помещение на судне для команды и пассажиров?",
+        "answers": [
+          { "id": "1", "text": "КРЮЙТ-КАМЕРА", "correct": false },
+          { "id": "2", "text": "КАЮТА", "correct": true },
+          { "id": "3", "text": "ТАМБУР", "correct": false },
+          { "id": "4", "text": "СТОЛОВАЯ", "correct": false }
+        ]
+      },
+      {
+        "id": "6",
+        "question": "Как называется надстройка на верхней палубе, не доходящая до бортов?",
+        "answers": [
+          { "id": "1", "text": "РУБКА", "correct": true },
+          { "id": "2", "text": "ТРЮМ", "correct": false },
+          { "id": "3", "text": "ПИЩЕБЛОК", "correct": false },
+          { "id": "4", "text": "НАСОСНОЕ ОТДЕЛЕНИЕ", "correct": false }
+        ]
+      },
+      {
+        "id": "7",
+        "question": "Как называется лестница на судне?",
+        "answers": [
+          { "id": "1", "text": "СХОДНИ", "correct": false },
+          { "id": "2", "text": "ДОРОЖКА", "correct": false },
+          { "id": "3", "text": "ТРАП", "correct": true },
+          { "id": "4", "text": "КОНЦЫ", "correct": false }
+        ]
+      },
+      {
+        "id": "8",
+        "question": "Как называется судовой колокол?",
+        "answers": [
+          { "id": "1", "text": "НАБАТ", "correct": false },
+          { "id": "2", "text": "УДАРНИК", "correct": false },
+          { "id": "3", "text": "РЫНДА", "correct": true },
+          { "id": "4", "text": "МЕТАЛЛОФОН", "correct": false }
+        ]
+      },
+      {
+        "id": "9",
+        "question": "Назовите самую большую рыбу в мире",
+        "answers": [
+          { "id": "1", "text": "СКАТ", "correct": false },
+          { "id": "2", "text": "НАРВАЛ", "correct": false },
+          { "id": "3", "text": "КАСАТКА", "correct": false },
+          { "id": "4", "text": "КИТОВАЯ АКУЛА", "correct": true }
+        ]
+      },
+      {
+        "id": "10",
+        "question": "Какая рыба водится в Красном море?",
+        "answers": [
+          { "id": "1", "text": "НЕ ВОДИТСЯ", "correct": true },
+          { "id": "2", "text": "КРАСНАЯ", "correct": false },
+          { "id": "3", "text": "МОРСКАЯ", "correct": false },
+          { "id": "4", "text": "ПРЕСНОВОДНАЯ", "correct": false }
+        ]
+      },
+      {
+        "id": "11",
+        "question": "Как называется механическое приспособление для переправы с одного берега на другой?",
+        "answers": [
+          { "id": "1", "text": "ПАРОМ", "correct": true },
+          { "id": "2", "text": "ПОНТОН", "correct": false },
+          { "id": "3", "text": "ТРАП", "correct": false },
+          { "id": "4", "text": "ТРАЛ", "correct": false }
+        ]
+      },
+      {
+        "id": "12",
+        "question": "Назовите самое крупное морское млекопитающее",
+        "answers": [
+          { "id": "1", "text": "НАРВАЛ", "correct": false },
+          { "id": "2", "text": "АКУЛА", "correct": false },
+          { "id": "3", "text": "КАШАЛОТ", "correct": true },
+          { "id": "4", "text": "МОРЖ", "correct": false }
+        ]
+      }
+]

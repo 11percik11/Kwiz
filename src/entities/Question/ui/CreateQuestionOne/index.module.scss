@@ -1,0 +1,126 @@
+.main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 2px;
+
+  &__header {
+    background-color: #ecf7ff;
+    color: #0d003b;
+    height: 100%;
+    border-radius: 20px;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__headerBlock {
+    color: #0d003b;
+    height: 100%;
+    border-radius: 20px;
+    margin-bottom: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+
+    @media (max-width: 480px) {
+      flex-direction: column;
+    } 
+  }
+
+  &__textContent {
+    background-color: #ECF7FF;
+    height: 100%;
+    border-radius: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+  }
+
+  &__imageContainer {
+    background-color: #ffffff;
+    height: 100%;
+    border-radius: 20px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+
+  &__image {
+    max-width: 100%;
+    max-height: 400px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+  
+  &__tur {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 130px;
+    height: 54px;
+    background: #FFFFFF;
+    border-radius: 100px;
+    font-size: 24px;
+    color: #0D003B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__count_response {
+    font-size: 20px;
+    color: #5C59FD;
+  }
+
+  &__response_text {
+    font-size: 80px;
+    max-width: 65%;
+    text-align: center; 
+
+    @media (max-height: 950px), (max-width: 1200px) {
+      font-size: 30px;
+    }
+
+    @media (max-width:850px) {
+      font-size: 25px;
+    }
+
+    @media (max-width:650px) {
+      font-size: 16px;
+    }
+  }
+
+  &__response {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2px;
+
+      &__item {
+        min-width: 0; 
+        padding: 10px;
+        text-align: center;
+        box-sizing: border-box;
+
+        @media (max-width: 900px) {
+          font-size: 16px;
+          padding: 0;
+        }
+
+        @media (max-width: 650px) {
+          font-size: 12px;
+          padding: 0;
+        }        
+      }
+  }
+}
