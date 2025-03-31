@@ -35,7 +35,7 @@ createRoot(document.getElementById("root")!).render(
       <Routes>
       <Route path="/kwiz/tur/1/result" element={<ResultTur1Page/>} />
       <Route path="/kwiz/tur/2/result" element={<ResultTur2Page/>} />
-      {/* <Route path="/" element={<TitleTur1Page/>} /> */}
+      <Route path="/kwiz/tur/1/title" element={<TitleTur1Page/>} />
       <Route path="/kwiz/tur/2/title" element={<TitleTur2Page/>} />
       <Route path="/kwiz/tur/3/title" element={<TitleTur3Page/>} />
       <Route path="/kwiz/tur/4/title" element={<TitleTur4Page/>} />

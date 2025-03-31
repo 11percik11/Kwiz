@@ -14,7 +14,7 @@ export default function MainPage() {
       <div className={styles.parent}>
         <div className={`${styles.div1} ${styles.div}`}>
           <div>Квиз для старшеклассников «Умная морская душа»</div>
-          <Link to="/mainpage">
+          <Link to="/kwiz/tur/1/title">
             <Button>НАЧАТЬ</Button>
           </Link>
         </div>
